@@ -3,7 +3,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* border: 1px solid black; */
 }
 body {
   font-family: 'Space Mono', monospace;
@@ -13,7 +12,6 @@ body {
 }
 header {
   font-family: 'Inconsolata', monospace;
-  /* justify-self: flex-start; */
   align-self: flex-start;
 }
 header p {
@@ -26,7 +24,6 @@ header p {
   align-items: center;
   margin: 0 auto;
   padding: 2em;
-  /* height: 100vh; */
 }
 main {
   display: flex;
@@ -35,9 +32,6 @@ main {
   align-items: center;
   padding: 5em 0;
 }
-/* .main-wrap {
-  display: flex;
-} */
 .land-img {
   max-width: 600px;
   height: auto;
@@ -45,8 +39,6 @@ main {
 }
 .main-content {
   max-width: 600px;
-
-  /* padding: 0 1em; */
 }
 .main-content h1 {
   font-size: 64px;
@@ -71,7 +63,5 @@ header p {
   text-transform: uppercase;
 }
 footer {
-  /* justify-self: baseline; */
-  /* align-self: flex-end; */
   margin-top: auto;
 }
