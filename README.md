@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/Cyanhead/404-not-found-master/blob/master/Screenshot.png)
+![screenshot](https://github.com/Cyanhead/404-not-found-master/blob/master/Img/Screenshot.png)
 
 I created a responsive error 404 page following a design from <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 You can find links to the demo, as well as to the code, at the top.
