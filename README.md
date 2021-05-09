@@ -53,7 +53,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Acknowledgements
 
-The responsiveness of the page is achieved using ["display: flex;"](https://www.w3schools.com/cssref/pr_class_display.asp). Oh how i love flex 😄.
+The responsiveness of the page is achieved using [`display: flex;`](https://www.w3schools.com/cssref/pr_class_display.asp). Oh how i love flex 😄.
 
 ## Contact
 
